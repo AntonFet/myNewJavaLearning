@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf5fd2c9-fd1f-4ab4-a894-ae7706d77fd8" name="Changes" comment="ПРоверка существования пути к файлу" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="oldMain" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AntonFet"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ff21aef7-8df2-40b5-bcaa-97f21e452fe2" />
+        <option name="url" value="https://github.com/AntonFet/myNewJavaLearning.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2dRqF4XPstJU0OA42g5dY1zM2Oe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.absClass.executor": "Run",
+    "Application.addClass.executor": "Run",
+    "Application.addNextClass.executor": "Run",
+    "Application.ageClass.executor": "Run",
+    "Application.charToNumClass.executor": "Run",
+    "Application.chetClass.executor": "Run",
+    "Application.concatClass.executor": "Run",
+    "Application.countPositiveClass.executor": "Run",
+    "Application.dayClass.executor": "Run",
+    "Application.deleteNegativeClass.executor": "Run",
+    "Application.equalNumCLass.executor": "Run",
+    "Application.findAllClass.executor": "Run",
+    "Application.findFirstClass.executor": "Run",
+    "Application.findLastClass.executor": "Run",
+    "Application.guessGameClass.executor": "Run",
+    "Application.is2DigitsClass.executor": "Run",
+    "Application.is35Class.executor": "Run",
+    "Application.isDivisorClass.executor": "Run",
+    "Application.isInRangeClass.executor": "Run",
+    "Application.isPositiveClass.executor": "Run",
+    "Application.isUpperCaseClass.executor": "Run",
+    "Application.lastNumSumClass.executor": "Run",
+    "Application.leftTriangleClass.executor": "Run",
+    "Application.listNumsClass.executor": "Run",
+    "Application.magic6Class.executor": "Run",
+    "Application.makeDecisionClass.executor": "Run",
+    "Application.max3Class.executor": "Run",
+    "Application.maxAbsClass.executor": "Run",
+    "Application.maxClass.executor": "Run",
+    "Application.numLenCLass.executor": "Run",
+    "Application.palindromeClass.executor": "Run",
+    "Application.powClass.executor": "Run",
+    "Application.printDaysClass.executor": "Run",
+    "Application.reverseBackClass.executor": "Run",
+    "Application.reverseClass.executor": "Run",
+    "Application.reverseListNumsClass.executor": "Run",
+    "Application.rightTriangleClass.executor": "Run",
+    "Application.safeDivClass.executor": "Run",
+    "Application.squareClass.executor": "Run",
+    "Application.sum2Class.executor": "Run",
+    "Application.sum3Class.executor": "Run",
+    "Application.sumLastNums.executor": "Run",
+    "Application.sumLastNumsClass.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/homer/IdeaProjects/myNewJavaLearning/src/main/java/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="myNewJavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="addClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="addClass" />
+      <module name="myNewJavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="addNextClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="addNextClass" />
+      <module name="myNewJavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deleteNegativeClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deleteNegativeClass" />
+      <module name="myNewJavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverseClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverseClass" />
+      <module name="myNewJavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.addNextClass" />
+        <item itemvalue="Application.addClass" />
+        <item itemvalue="Application.deleteNegativeClass" />
+        <item itemvalue="Application.reverseClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-temurin-11.0.22-3183f394aec4-1ee2b2ab" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf5fd2c9-fd1f-4ab4-a894-ae7706d77fd8" name="Changes" comment="" />
+      <created>1709981133911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709981133911</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ПРоверка существования пути к файлу">
+      <option name="closed" value="true" />
+      <created>1713101868044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713101868044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ПРоверка существования пути к файлу" />
+    <option name="LAST_COMMIT_MESSAGE" value="ПРоверка существования пути к файлу" />
+  </component>
+</project>
